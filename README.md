@@ -1,2 +1,2 @@
 # Scratch-Image-Generator
-Uploading the code used in a Google Site project
+The source code from a [project](https://sites.google.com/view/scratch-image-loader/home).
